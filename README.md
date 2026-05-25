@@ -2,13 +2,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinizKaua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<a href="https://github.com/DinizKaua">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=DinizKaua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizKaua&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/DinizKaua">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizKaua&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
 </div>
 
-### Tecnologias
+### Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
