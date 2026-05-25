@@ -1,6 +1,6 @@
 ## Olá, me chamo Kauã 👋
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DinizKaua" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinizkaua" />
 </a>
 
 <div style="display: inline_block"><br>
