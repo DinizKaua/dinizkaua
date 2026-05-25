@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
-<br>
-
 <div align="center">
   <img align="center" height="450" src="https://raw.githubusercontent.com/DinizKaua/dinizkaua/main/assets/programmer.png" />
 </div>
@@ -19,8 +17,6 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
-      
-<br>
       
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=DinizKaua&rank_icon=github&show_icons=true&theme=radical&count_private=true">
