@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/DinizKaua/dinizkaua/main/assets/programmer.png" />
+  <img align="center" height="450" src="https://raw.githubusercontent.com/DinizKaua/dinizkaua/main/assets/programmer.png" />
 </div>
 
 <div align="center">
