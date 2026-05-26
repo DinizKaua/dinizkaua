@@ -72,7 +72,7 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DinizKaua/DinizKaua/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DinizKaua/DinizKaua/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
